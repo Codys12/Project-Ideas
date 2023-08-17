@@ -1,4 +1,4 @@
-### Conceptual Refinement: Model Adapter Storage & Retrieval System
+### Mixture of Adapters
 
 #### 1. **Objective**
 Develop a system to store and retrieve model adapters based on their relevance to specific tasks, particularly next token generation. By selectively merging these adapters according to their query relevance, we aim to improve the efficiency and accuracy of model outputs.
